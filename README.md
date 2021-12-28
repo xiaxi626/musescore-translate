@@ -1,6 +1,6 @@
 # musescore-translate
 
- [![fork](https://gitee.com/xiaxi626/musescore-translate/badge/fork.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/members) [![star](https://gitee.com/xiaxi626/musescore-translate/badge/star.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/stargazers)
+[![Fork me on Gitee](https://gitee.com/xiaxi626/musescore-translate/widgets/widget_1.svg)](https://gitee.com/xiaxi626/musescore-translate) [![fork](https://gitee.com/xiaxi626/musescore-translate/badge/fork.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/members) [![star](https://gitee.com/xiaxi626/musescore-translate/badge/star.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/stargazers)
 
 Translate the content on musescore's official website
 
