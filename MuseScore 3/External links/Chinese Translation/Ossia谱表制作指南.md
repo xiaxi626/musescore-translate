@@ -2,7 +2,7 @@
 2. 正常输入所有的音符(包括为ossia的音符);
 3. 如果需要的话，可以添加换行符，以使ossia适合;
 
-![sheetMusic.png](/MuseScore3/External links/images/sheetMusic.png)
+![sheetMusic.png](/MuseScore3/External%20links/images/sheetMusic.png)
 
 4. 要把 ossia 谱表设置成比主琴谱更小的打印尺寸，在一个小节 (或乐器名称) 的空格上点击右键，选择 __谱表属性__。勾选标有 "缩小谱表" 的复选框 (你也可以在同一个对话框中把这个谱表的长、短乐器名称改为 "Ossia")；
 
