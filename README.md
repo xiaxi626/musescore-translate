@@ -1,6 +1,6 @@
 # musescore-translate
 
-  [![](https://img.shields.io/github/issues/xiaxi626/musescore-translate.svg)](https://github.com/xiaxi626/musescore-translate/issues)  [![fork](https://gitee.com/xiaxi626/musescore-translate/badge/fork.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/members) [![star](https://gitee.com/xiaxi626/musescore-translate/badge/star.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/stargazers)
+  [![issues](https://gitee.com/xiaxi626/musescore-translate/issues)  [![fork](https://gitee.com/xiaxi626/musescore-translate/badge/fork.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/members) [![star](https://gitee.com/xiaxi626/musescore-translate/badge/star.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/stargazers)
 
 Translate the content on musescore's official website
 
