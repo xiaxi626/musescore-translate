@@ -1,6 +1,6 @@
 # musescore-translate
 
-  [![](https://img.shields.io/github/issues/xiaxi626/musescore-translate.svg)](https://github.com/xiaxi626/musescore-translate/issues)  [![](https://img.shields.io/github/forks/xiaxi626/musescore-translate.svg)](https://github.com/xiaxi626/musescore-translate/network) [![star](https://gitee.com/xiaxi626/musescore-translate/badge/star.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/stargazers) [![](https://travis-ci.org/xiaxi626/musescore-translate.svg?branch=master)](https://travis-ci.org/xiaxi626/musescore-translate) [![](https://img.shields.io/github/release/xiaxi626/musescore-translate.svg)](https://github.com/xiaxi626/musescore-translate/releases)
+  [![](https://img.shields.io/github/issues/xiaxi626/musescore-translate.svg)](https://github.com/xiaxi626/musescore-translate/issues)  [![fork](https://gitee.com/xiaxi626/musescore-translate/badge/fork.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/members) [![star](https://gitee.com/xiaxi626/musescore-translate/badge/star.svg?theme=white)](https://gitee.com/xiaxi626/musescore-translate/stargazers) [![](https://travis-ci.org/xiaxi626/musescore-translate.svg?branch=master)](https://travis-ci.org/xiaxi626/musescore-translate) [![](https://img.shields.io/github/release/xiaxi626/musescore-translate.svg)](https://github.com/xiaxi626/musescore-translate/releases)
 
 Translate the content on musescore's official website
 
