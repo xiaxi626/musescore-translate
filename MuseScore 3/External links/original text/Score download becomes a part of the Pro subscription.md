@@ -1,0 +1,11 @@
+###  Public Domain and Original scores will remain free to download and print
+
+The entire music industry begins with the song. Without the composer, there is no song and there is nothing to learn or play. Musescore firmly believes in the rights of creators.
+
+Copyright laws throughout the world ensure that composers own the songs that they write and that they are able to decide how or if scores and arrangements are created or distributed. You can't publish a music piece online legally without obtaining the original author's permission or paying royalties for the associated publishing rights. For many composers, music is often the main source of income, and they depend on royalties to survive. It is hard work that, without a doubt, should be rewarded. 
+
+Most of the artists and composers are represented by music publishers, and it is these publishers obligation to make sure that all uses of their music are monetized appropriately. For a long time, music scores have been printed on paper and sold for quite hefty prices. With the arrival of the digital age, it has become possible to distribute music online without paper, but the creators still have the need to be paid.
+
+Taking the interests of copyright owners into account and paying creators for the use of their songs is the only way for Musescore to remain legal and offer users with the opportunity to share content, view scores and use the free open-source editor.
+
+In order to ensure the stable operation of the website and smooth development of the editor and [Musescore.com](https://musescore.com/dashboard) website, Musescore has committed to pay publishers and songwriters for the creation and distribution of arrangements and scores, and it is this commitment that allows Musescore to remain legal and offer users the ability to create, share and use scores. We have two primary sources of income: ads for free users and subscription fees for paid users. However, publishers expect payment for every copy of the score, whether it is printed or downloaded. Given the expectations of songwriters and publishers, Musescore is unable to provide free users the ability to print;  the revenue from advertising does not cover the royalty payment expected from publishers. Therefore, we have been forced to make download a feature that is available only to subscribers.
